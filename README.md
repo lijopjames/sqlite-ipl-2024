@@ -30,11 +30,11 @@ Match Level Information Required
 
 </code></pre>
 
-![VM Creation Output](outputs\output1_ss.png)
+![VM Creation Output](outputs/output1_ss.png)
 
 <pre><code>
 Innings Level Information Required
-
+----------------------------------
 1. Name of the teams played
 2. Total runs scored
 3. Total wickets lost
@@ -42,11 +42,11 @@ Innings Level Information Required
 
 </code></pre>
 
-![VM Creation Output](outputs\output2_ss.png)
+![VM Creation Output](outputs/output2_ss.png)
 
 <pre><code>
 Batting Summary (Batsman Level) Information Required
-
+----------------------------------------------------
 1. Team Name
 2. Batsman Name
 3. Runs
@@ -57,11 +57,11 @@ Batting Summary (Batsman Level) Information Required
 
 </code></pre>
 
-![VM Creation Output](outputs\output3_ss.png)
+![VM Creation Output](outputs/output3_ss.png)
 
 <pre><code>
 Batting Summary (Extras) Information Required
-
+---------------------------------------------
 1. Team Name
 2. extras
 3. noballs
@@ -74,12 +74,12 @@ Batting Summary (Extras) Information Required
 
 #### This output is formated in 2 different ways:
 
-![VM Creation Output](outputs\output4_ss.png)
-![VM Creation Output](outputs\output4a_ss.png)
+![VM Creation Output](outputs/output4_ss.png)
+![VM Creation Output](outputs/output4a_ss.png)
 
 <pre><code>
 Bowling Summary (Bowler Level) Information Required
-
+---------------------------------------------------
 1. Batting Team Name
 2. Bowler Name
 3. Overs
@@ -90,7 +90,7 @@ Bowling Summary (Bowler Level) Information Required
 
 </code></pre>
 
-![VM Creation Output](outputs\output5_ss.png)
+![VM Creation Output](outputs/output5_ss.png)
 
 ## 🧠 Skills & Concepts Demonstrated
 
